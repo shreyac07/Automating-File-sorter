@@ -1,2 +1,3 @@
-# Automating-File-sorter
-Built an automatic file sorter using Python to organize files by type and extension into designated folders.
+Developed an automatic file sorter in Python that monitors directories and categorizes files into folders based on file type (e.g., PDF, images, documents), improving system organization and productivity.
+
+
